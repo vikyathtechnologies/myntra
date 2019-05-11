@@ -3,3 +3,4 @@ Buongiorno
 Buonanotte
 Buonasera
 Ciao!
+Pranza
