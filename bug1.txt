@@ -1,0 +1,2 @@
+This is the file to report bug
+This is to fix the bug created in branch bugfix
